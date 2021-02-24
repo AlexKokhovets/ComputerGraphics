@@ -1,0 +1,10 @@
+E:\University\6sem\KG\Lab1\Lab1KG\bin\Debug\Lab1KG.exe.config
+E:\University\6sem\KG\Lab1\Lab1KG\bin\Debug\Lab1KG.exe
+E:\University\6sem\KG\Lab1\Lab1KG\bin\Debug\Lab1KG.pdb
+E:\University\6sem\KG\Lab1\Lab1KG\obj\Debug\Lab1KG.csprojAssemblyReference.cache
+E:\University\6sem\KG\Lab1\Lab1KG\obj\Debug\Lab1KG.Form1.resources
+E:\University\6sem\KG\Lab1\Lab1KG\obj\Debug\Lab1KG.Properties.Resources.resources
+E:\University\6sem\KG\Lab1\Lab1KG\obj\Debug\Lab1KG.csproj.GenerateResource.cache
+E:\University\6sem\KG\Lab1\Lab1KG\obj\Debug\Lab1KG.csproj.CoreCompileInputs.cache
+E:\University\6sem\KG\Lab1\Lab1KG\obj\Debug\Lab1KG.exe
+E:\University\6sem\KG\Lab1\Lab1KG\obj\Debug\Lab1KG.pdb
